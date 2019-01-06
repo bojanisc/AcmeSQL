@@ -15,7 +15,7 @@ Questions or comments?
 Reach me at bojan.isc@gmail.com or https://twitter.com/bojanz
 
 
-How to install/use?
+# How to install/use?
 
 You will need to install Apache, PHP and MySQL.
 Once done, import the acmesql.sql database and edit the config.php file
